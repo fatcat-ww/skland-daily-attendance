@@ -1,5 +1,5 @@
 # 森空岛签到
-# 森空岛签到
+
 使用 TypeScript 实现的森空岛自动签到服务，支持多账号管理和多种推送通知方式。
 
 基于 Nitro 构建，支持 Node.js、Cloudflare Workers 等环境部署。
